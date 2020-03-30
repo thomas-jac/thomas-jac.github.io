@@ -4,13 +4,13 @@ title: About me
 subtitle: Thomas Jacob
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey There! My name is Thomas Jacob. I'm currently pursuing my undergrad at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) from IIT Bombay. I'm doing my major in Electrical Engineering and am currently in my freshman year.  
+I've made this website primaily to compile all of my projects on electronics and coding at one place.  
+I'll also keep all interesting projects I've done as a part of my course.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+###Contact
 
-What else do you need?
+* tjacob7911@gmail.com
+* 190070068@iitb.ac.in
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
