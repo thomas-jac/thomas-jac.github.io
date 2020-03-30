@@ -10,7 +10,7 @@ I'll also keep all interesting projects I've done as a part of my course.
 
 ### Contact
 
-* tjacob7911@gmail.com
-* 190070068@iitb.ac.in
+* [Personal](tjacob7911@gmail.com)
+* [College](190070068@iitb.ac.in)
 
 
