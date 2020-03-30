@@ -8,7 +8,7 @@ Hey There! My name is Thomas Jacob. I'm currently pursuing my undergrad at the [
 I've made this website primaily to compile all of my projects on electronics and coding at one place.  
 I'll also keep all interesting projects I've done as a part of my course.
 
-###Contact
+### Contact
 
 * tjacob7911@gmail.com
 * 190070068@iitb.ac.in
