@@ -91,7 +91,7 @@ share-links-active:
   gmail: true
   facebook: true
   linkedin: true
-  #instagram: true
+  instagram: true
   github: true
 
 # How to display the link to the website in the footer
