@@ -2,6 +2,7 @@
 layout: post
 title: My First Blockchain Experience!
 subtitle: Implementing a Social Media Prototype From Scratch
+image: /img/hello_world.jpeg
 bigimg: /img/bchain.jpg
 tags: [blockchain]
 comments: true
