@@ -39,13 +39,13 @@ avatar: "/img/nav image.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FF00FF"
+navbar-col: "#FFEBCD"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#7FFFD4"
 link-col: "#008AFF"
 hover-col: "#E6E6FA"
-footer-col: "#FF00FF"
+footer-col: "#FFEBCD"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
