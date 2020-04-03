@@ -4,6 +4,7 @@ common-css:
   - "/css/bootstrap-social.css"
   - "/css/main.css"
   - "/css/style.css"
+  - "/css/particle-js-style.css"
 common-ext-css:
   - "//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css"
 common-googlefonts:
@@ -13,27 +14,21 @@ common-js:
   - "/js/jquery-1.11.2.min.js"
   - "/js/bootstrap.min.js"
   - "/js/main.js"
-  - "/js/demo.js"
-  - "/js/jquery.particleground.js"
+  - "/js/particles.min.js"
+  - "/js/particles-config.js"
 ---
 
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="en">
   <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
   {% include head.html %}
-  <head>
-  <meta charset="UTF-8" />
-  <title>Particleground demo</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/css/style.css" />
-  <link href='http://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
-  <!-- remember, jQuery is completely optional -->
-  <!-- <script type='text/javascript' src='js/jquery-1.11.1.min.js'></script> -->
-  <script type='text/javascript' src='/js/jquery.particleground.js'></script>
-  <script type='text/javascript' src='/js/demo.js'></script>
-  </head>
-
+  
   <body>
+    <div class="mobile-js-hide">
+    <!-- particles.js container -->
+    <div id="particles-js"></div>
+    </div>
+
 
     {% include gtm_body.html %}
   
