@@ -1,78 +1,16 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: My First Blockchain Experience!
+subtitle: Implementing a Social Media Prototype From Scratch
+tags: [blockchain]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Hey there! This is my first post here.   
+For this one, I'd like to write about my first time being exposed to blockchain. So, it actually started when me and a friend of mine decided to participate in a hackathon organised by the [Web and Coding Club, IIT Bombay](https://www.wncc-iitb.org/).  
 
-**Here is some bold text**
+In the session, they gave us a brief intro about blockchain and the basic framework on how to implement a service (like say, a courier delivery system) using its decentralized nature and how to conduct each transaction in exchange for a set amount of ethers (cryptocurrency similar to bitcoin). You can read more about ethers [here](https://ethereum.org/eth/). Afterward, for the hackathon, we were required to make any system of our choice using those concepts in about 16 hours.  
 
-## Here is a secondary heading
+We used the [Remix IDE](https://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.6.1+commit.e6f7d5a4.js) and coded using Solidity (got to learn a new language!) and implemented a prototype of a social media platform, with a not-so-user-friendly interface (where them front end devs at?). On a side note for anyone looking to start off with Solidity, this is a [great place](https://cryptozombies.io/en/course). Very intuitive, fun too.  
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+To keep this short and not take too much space (lets just say I'm lazy), I'll list the link of my [GitHub repo](https://github.com/thomas-jac/Blockchain-Hackathon) on the project.
