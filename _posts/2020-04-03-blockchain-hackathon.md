@@ -15,4 +15,4 @@ In the session, they gave us a brief intro about blockchain and the basic framew
 
 We used the [Remix IDE](https://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.6.1+commit.e6f7d5a4.js) and coded using Solidity (got to learn a new language!) and implemented a prototype of a social media platform, with a not-so-user-friendly interface (where them front end devs at?). On a side note for anyone looking to start off with Solidity, this is a [great place](https://cryptozombies.io/en/course). Very intuitive, fun too.  
 
-To keep this short and not take too much space (lets just say I'm lazy), I'll list the link of my [GitHub repo](https://github.com/thomas-jac/Blockchain-Hackathon) on the project.
+To keep this short and not take too much space (lets just say I'm lazy), I'll list the link of my [GitHub repo](https://github.com/thomas-jac/Blockchain-Hackathon) on the project. You can look at the code from the repo and try to run it on remix. If you liked the project and are enthusiastic enough, you could fork it into a new repo and work on improvising it to add new features!
