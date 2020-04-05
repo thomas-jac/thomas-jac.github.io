@@ -2,7 +2,7 @@
 layout: post
 title: Smile Detector! 
 subtitle: Are You Happy Inside?
-image: /img/keras_logo.jpeg
+image: /img/keras_logo.png
 bigimg: /img/CNN_img.jpg
 tags: [Keras, Deep Learning]
 comments: true
