@@ -2,7 +2,7 @@
 layout: post
 title: Handwritten Digit Recognition 
 subtitle: Torching the digits!
-image: /img/PyTorch_Img.jpeg
+image: /img/torch_im.jpg
 bigimg: /img/CNN_Img.jpg
 tags: [PyTorch, Keras, Kaggle, Deep Learning]
 comments: true
