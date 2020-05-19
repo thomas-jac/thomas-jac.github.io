@@ -23,7 +23,7 @@ description: A Culmination of All My Ideas
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - PyTorch tutorials: "https://pytorch.org/tutorials/"
     - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
 
