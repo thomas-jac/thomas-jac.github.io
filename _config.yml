@@ -21,6 +21,7 @@ description: A Culmination of All My Ideas
 
 # List of links in the navigation bar
 navbar-links:
+  Courses: "courses"
   About Me: "aboutme"
   Resources:
     - PyTorch tutorials: "https://pytorch.org/tutorials/"
