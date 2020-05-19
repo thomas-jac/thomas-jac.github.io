@@ -13,7 +13,7 @@ image: /img/iitb.jpeg
     - [CH 105](https://www.chem.iitb.ac.in/courses_inner/848) Organic & Inorganic Chemistry
     - [CH 107](https://www.chem.iitb.ac.in/courses_inner/860) Physical Chemistry
     - [PH 117](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp) Physics Lab
-    - [ME 113](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp) Mechanical Workshop
+    - [ME 113](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp) Mechanical Workshop. 
 
 
 * Semester 2
