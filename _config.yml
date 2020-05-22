@@ -2,7 +2,7 @@
 
 # Name of website
 title: Home
-favicon: /img/bhole.jpg
+favicon: /img/nav_img.png
 
 # Short description of your site
 description: A Culmination of All My Ideas
@@ -30,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/bhole.jpg"
+avatar: "/img/nav_img.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
