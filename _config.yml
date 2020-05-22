@@ -40,13 +40,13 @@ avatar: "/img/bhole.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFEBCD"
+navbar-col: "#0000FF"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFAF0"
+page-col: "#00FFFF"
 link-col: "#008AFF"
 hover-col: "#E6E6FA"
-footer-col: "#FFEBCD"
+footer-col: "#0000FF"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
