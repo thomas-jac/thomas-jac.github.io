@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deep Convolutional GAN's  
-subtitle: A Battle of Adversaries : Part 2
+subtitle: A Battle of Adversaries - Part 2
 image: /img/dcgan_small.jpg
 bigimg: /img/DCGAN_post.jpg
 tags: [DCGAN, GAN, PyTorch, Kaggle, Deep Learning]
