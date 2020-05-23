@@ -7,7 +7,6 @@ bigimg: /img/DCGAN_post.jpg
 tags: [DCGAN, GAN, PyTorch, Kaggle, Deep Learning]
 comments: true
 ---
-
 Welcome to my 2nd post in the GAN series!
 
 You can have a look at the complete code for training a DCGAN on the MNIST dataset in my [GitHub Repo](https://github.com/thomas-jac/DCGAN-on-CelebA-Dataset) or my [kaggle notebook](https://www.kaggle.com/tjac718/dcgan-on-celeba-dataset).  
@@ -34,15 +33,23 @@ With this, the fun begins!
 I printed out some fixed generated samples every epoch, here are a few results:
 
 Epoch 1-
+
+
 ![Epoch 1](/img/dcgan_epoch1.png)
 
 Epoch 3-
-![Epoch 3](https://github.com/thomas-jac/thomas-jac.github.io/blob/master/img/dcgan_epoch3.png)
+
+
+![Epoch 3](/img/dcgan_epoch3.png)
 
 Epoch 5-
-![Epoch 5](https://github.com/thomas-jac/thomas-jac.github.io/blob/master/img/dcgan_epoch5.png)
+
+
+![Epoch 5](/img/dcgan_epoch5.png)
 
 # Loss Plots:
 The generator and discriminator losses varied as the following:
-![GAN Loss](https://github.com/thomas-jac/thomas-jac.github.io/blob/master/img/dcgan_loss_plot.png)
+
+
+![GAN Loss](/img/dcgan_loss_plot.png)
 
