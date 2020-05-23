@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Deep Convolutional GAN's  
@@ -34,7 +35,7 @@ With this, the fun begins!
 I printed out some fixed generated samples every epoch, here are a few results:
 
 Epoch 1-
-![Epoch 1](https://github.com/thomas-jac/thomas-jac.github.io/blob/master/img/dcgan_epoch1.png)
+![Epoch 1](/img/dcgan_epoch1.png)
 
 Epoch 3-
 ![Epoch 3](https://github.com/thomas-jac/thomas-jac.github.io/blob/master/img/dcgan_epoch3.png)
@@ -42,7 +43,7 @@ Epoch 3-
 Epoch 5-
 ![Epoch 5](https://github.com/thomas-jac/thomas-jac.github.io/blob/master/img/dcgan_epoch5.png)
 
-# Loss Plots
+# Loss Plots:
 The generator and discriminator losses varied as the following:
 ![GAN Loss](https://github.com/thomas-jac/thomas-jac.github.io/blob/master/img/dcgan_loss_plot.png)
 
