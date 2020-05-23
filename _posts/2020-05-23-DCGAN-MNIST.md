@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Deep Convolutional GAN's  
