@@ -26,7 +26,7 @@ The generator model consists of transposed convolutions used to upsample the ran
 For the discriminator, convolutional layers downsample the training images and the generator output, finally reducing them to a single number determining whether the image is real or fake. Similarly to the generator,  a Batch Norm layer follows each transposed convolution layer (except for the output) for faster learning. Here, the activations used for all layers are the Leaky ReLU activations except the output, which uses the sigmoid activation.
 
 # Training:
-Before starting model training, the authors of the paper recommended a random initialization of the weights with mean 0 and a standard deviation of 0.02. Further, the authors also used an Adam optimizer with a slight departure from the default parameters. They set the learning rate to 0.0002 as the model was a bit unstable, with the default of 0.001. The $\beta 1$ hyperparameter used is 0.5. Now, we can begin training our model. I trained it for five epochs with a mini-batch size of 128. 
+Before starting model training, the authors of the paper recommended a random initialization of the weights with mean 0 and a standard deviation of 0.02. Further, the authors also used an Adam optimizer with a slight departure from the default parameters. They set the learning rate to 0.0002 as the model was a bit unstable, with the default of 0.001. The $\beta1$ hyperparameter used is 0.5. Now, we can begin training our model. I trained it for five epochs with a mini-batch size of 128. 
 
 # Example Outputs:
 With this, the fun begins!
