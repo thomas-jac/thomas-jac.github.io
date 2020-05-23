@@ -9,7 +9,7 @@ comments: true
 ---
 Welcome to my 2nd post in the GAN series!
 
-You can have a look at the complete code for training a DCGAN on the MNIST dataset in my [GitHub Repo](https://github.com/thomas-jac/DCGAN-on-CelebA-Dataset) or my [kaggle notebook](https://www.kaggle.com/tjac718/dcgan-on-celeba-dataset).  
+You can have a look at the complete code for training a DCGAN on the CelebA dataset in my [GitHub Repo](https://github.com/thomas-jac/DCGAN-on-CelebA-Dataset) or my [kaggle notebook](https://www.kaggle.com/tjac718/dcgan-on-celeba-dataset).  
 
 
 In my last post, I talked about creating a vanilla GAN
