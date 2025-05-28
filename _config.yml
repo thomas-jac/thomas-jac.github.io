@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Thomas Jacob # the website title (if blank, full name will be used instead)
 first_name: Thomas
 middle_name:
 last_name: Jacob
-email: tjacob@andrew.cmu.edu
+email: thj19@pitt.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student at Joint CMU-Pitt Ph.D. Program in Computational Biology.
 footer_text: >
