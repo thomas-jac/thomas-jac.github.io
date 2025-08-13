@@ -19,8 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third-year PhD student in the Joint Carnegie Mellon-University of Pittsburgh PhD Program in Computational Biology ([CPCB](https://www.compbio.cmu.edu)) at [Uttam Lab](https://www.uttamlab.com) working on developing methods targeted toward working with multiplexed immunofluorescence images extracted from different tumor microenvironments, and focusing on elucidating the underlying mechanisms of tumor development. Previously, I completed my undergraduate degree in Electrical Engineering from IIT Bombay, India.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As an undergraduate researcher at the [MeDAL Lab](https://www.ee.iitb.ac.in/web/labs/medical-deep-learning-and-artificial-intelligence-lab-medal/), I worked on developing methods for nucleus classification generalized across multiple organs in collaboration with Tata Hospital in Mumbai, India. I was also a research intern at TU Braunschweig, working on improving models performing video based action recognition, as part of a series of efforts to convert vehicles into spaces for unobtrusive health monitoring through sensors mounted inside.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My industry experience stems for interning at [AWL Inc.](https://awl.co.jp/en/company/), significantly optimizing models deployed as a part of retail store AI camera solutions for head-face detection, and head direction estimation.
+
+Besides work, I enjoy playing guitar, soccer, cooking, and practicing Muay Thai.
