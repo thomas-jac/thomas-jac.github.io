@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink:
-subtitle: PhD student @[CPCB](https://www.compbio.cmu.edu), Previously: [IIT Bombay](https://www.iitb.ac.in), [TU Braunschweig](https://www.tu-braunschweig.de/en/), [AWL Inc.](https://awl.co.jp/en/company/)
+subtitle: PhD student @<a href = 'https://www.compbio.cmu.edu'>CPCB</a>, Previously: <a href = 'https://www.iitb.ac.in'>IIT Bombay</a>, <a href = 'https://www.tu-braunschweig.de/en/'>TU Braunschweig</a>, <a href = 'https://awl.co.jp/en/company/'>AWL Inc.</a>
 
 profile:
   align: right
