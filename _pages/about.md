@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink:
 subtitle: PhD student @[CPCB](https://www.compbio.cmu.edu), Previously: [IIT Bombay](https://www.iitb.ac.in), [TU Braunschweig](https://www.tu-braunschweig.de/en/), [AWL Inc.](https://awl.co.jp/en/company/)
 
 profile:
